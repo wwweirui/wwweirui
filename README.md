@@ -24,8 +24,8 @@
 </div>
 
 <!-- 贪吃蛇代码贡献图 -->
-<!-- https://cdn.jsdelivr.net/gh/johnserf-seed/johnserf-seed/ -->
-<div align="center"><img src="https://raw.githubusercontent.com/Johnserf-Seed/Johnserf-Seed/output/github-contribution-grid-snake.svg" /></div>
+<!-- https://cdn.jsdelivr.net/gh/wwweirui/wwweirui/ -->
+<div align="center"><img src="https://raw.githubusercontent.com/wwweirui/wwweirui/output/github-contribution-grid-snake.svg" /></div>
 
 💪 正在学习: 
 
@@ -52,15 +52,13 @@
 
 <!-- GitHub数据统计 -->
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Johnserf-Seed&show_icons=true&count_private=true&hide_title=true&theme=default&hide_border=true"/>
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnserf-seed&layout=compact&hide_title=true&hide_border=true&show_icons=true" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=wwweirui&show_icons=true&count_private=true&hide_title=true&theme=default&hide_border=true"/>
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwweirui&layout=compact&hide_title=true&hide_border=true&show_icons=true" />
 </div>
 
 <!-- 连续提交代码天数记录 -->
 <div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnserf-seed&theme=dark&hide_border=true" />
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wwweirui&theme=dark&hide_border=true" />
 </div>
 <br>
 
