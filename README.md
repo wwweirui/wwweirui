@@ -51,18 +51,4 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 
 
-# 🚀 Actions 🚀
-
-<!-- GitHub数据统计 -->
-<div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=wwweirui&show_icons=true&count_private=true&hide_title=true&theme=default&hide_border=true"/>
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwweirui&layout=compact&hide_title=true&hide_border=true&show_icons=true" />
-</div>
-
-<!-- 连续提交代码天数记录 -->
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wwweirui&theme=dark&hide_border=true" />
-</div>
-<br>
-
 
